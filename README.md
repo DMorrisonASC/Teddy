@@ -5,6 +5,6 @@
 # Mission: fight through demonic enemies to escape hell and return to owner.
 # How to play:
 # 1) Download Godot by following their instructions: https://godotengine.org/
-# 2) Go to this Google Drive: https://drive.google.com/drive/folders/18UQEACFEhswWDv8PI5Ks3pKik3hwIamv
-# 3) Download the exe.file in the folder
+# 2) Go to this Google Drive: [https://drive.google.com/drive/folders/18UQEACFEhswWDv8PI5Ks3pKik3hwIamv](https://drive.google.com/drive/folders/1f6mzPndJO9QquGtXlkmjnaQ8QbWdcaCS?usp=sharing)
+# 3) Download the exe.file(PC) or Mac(x86_64) in the folder
 # 4) If Windows defender or other equivalent warns about download, ignore it and ran anyway.
